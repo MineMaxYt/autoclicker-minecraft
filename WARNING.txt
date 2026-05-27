@@ -1,0 +1,3 @@
+For these files you need python pypnut 
+if you dont have pypnut and python just downoload python 
+and after this open Powershell and write: " py -m pip install pynput pyinstaller " after enter and enjoy
